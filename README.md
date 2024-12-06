@@ -1,1 +1,1 @@
-# piano
+![Image alt](https://github.com/EkaterinaTihonenko/piano/blob/main/img/screen.PNG)
